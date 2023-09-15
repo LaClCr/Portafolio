@@ -7,3 +7,6 @@ Aquí encontrarás una lista de proyectos individuales, cada uno acompañado de 
 
 # Proyectos destacados
 
+##LACUENTALAVIEJAPP
+Proyecto desarrollado con PHP para la gestión de gastos mensuales 
+https://github.com/LaClCr/PHP_LACUENTALAVIEJAPP.git 
