@@ -7,5 +7,15 @@ Este repositorio ha sido creado con la finalidad de ofrecer una experiencia de n
 # Proyectos destacados
 
 ## LACUENTALAVIEJAPP
-![Captura de pantalla de LACUENTALAVIEJAPP](https://github.com/LaClCr/PHP_LACUENTALAVIEJAPP/raw/master/MEDIA/Portada.png)
-Proyecto desarrollado con PHP para la gestión de gastos mensuales. Este proyecto me permitió mejorar mis habilidades en PHP y crear una aplicación útil para el control financiero personal. [Ver repositorio](https://github.com/LaClCr/PHP_LACUENTALAVIEJAPP.git)
+
+---
+
+![Captura de pantalla de LACUENTALAVIEJAPP](https://github.com/LaClCr/PHP_LACUENTALAVIEJAPP/blob/master/MEDIA/Portada01.png)
+
+---
+
+Proyecto desarrollado con PHP para la gestión de gastos mensuales. Este proyecto me permitió mejorar mis habilidades en PHP y crear una aplicación útil para el control financiero personal. 
+
+---
+
+[Ver repositorio](https://github.com/LaClCr/PHP_LACUENTALAVIEJAPP.git)
