@@ -35,3 +35,19 @@ Aplicación móvil desarrollada con JavaScript y React Native para realizar cál
 ---
 
 [Ver repositorio](https://github.com/LaClCr/CALCULADORA.git)
+
+---
+
+## APP GESTIÓN DE FICHEROS JAVA
+
+---
+
+<img src="https://github.com/LaClCr/Gesti-nFicheros_JAVA/blob/cb78882b277e08719eab558208607fd2b7d3a47b/capturaJavaFitxers.png" width='650' height='400'>
+
+---
+
+**Gestión de Archivos en Java** es una aplicación de escritorio desarrollada en Java que te permite realizar diversas operaciones de manejo de archivos y directorios. Esta aplicación ofrece funcionalidades como la gestión de coincidencias en archivos de texto, fusión de archivos en uno nuevo y ordenación de archivos por nombre, tamaño o fecha de modificación.
+
+---
+
+[Ver repositorio](https://github.com/LaClCr/GestionaFicheros_JAVA.git)
