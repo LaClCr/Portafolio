@@ -19,3 +19,19 @@ Proyecto desarrollado con PHP para la gestión de gastos mensuales. Este proyect
 ---
 
 [Ver repositorio](https://github.com/LaClCr/PHP_LACUENTALAVIEJAPP.git)
+
+---
+
+## CALCULADORA REACT NATIVE
+
+---
+
+<img src="https://github.com/LaClCr/CALCULADORA/blob/938fe03af17f8bb0d172836c765a2f3820586ebd/assets/CAPTURACALC.png" width="300" height="600">
+
+---
+
+Aplicación móvil desarrollada con JavaScript y React Native para realizar cálculos matemáticos en dispositivos móviles. Esta calculadora ofrece una amplia gama de funciones, desde operaciones básicas hasta cálculos matemáticos avanzados.
+
+---
+
+[Ver repositorio](https://github.com/LaClCr/CALCULADORA.git)
