@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><br><br><br><br>
-  <img src="https://github.com/LaClCr/Portafolio/blob/main/image3.jpeg" style="max-width: 400px; max-height: 400px;">
+  <img src="https://github.com/LaClCr/Portafolio/blob/main/image3.jpeg" style="max-width: 400; max-height: 400;">
   <br><br>Soy Laia Clemente Crespo, desarrolladora de software con experiencia en diversas tecnologías y proyectos.
   <br><br><br><br><br>
 </p>
