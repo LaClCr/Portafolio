@@ -51,7 +51,7 @@ Aplicación móvil desarrollada con JavaScript y React Native para realizar cál
 
 ---
 
-<img src="https://github.com/LaClCr/Juegos_ReactNative/blob/main/imagen.png" width='650' height='400'>
+![Captura de pantalla de CRUCIGRAMA Y SOPA DE LETRAS](https://github.com/LaClCr/Juegos_ReactNative/blob/main/imagen.png)
 
 Proyecto desarrollado en React Native que incluye un crucigrama interactivo y una sopa de letras. 
 
