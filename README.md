@@ -1,8 +1,36 @@
 # Sobre mí
+
 Soy Laia Clemente Crespo, desarrolladora de software con experiencia en diversas tecnologías y proyectos.
+
+## Competencias Técnicas
+
+### Programación y Desarrollo:
+- **C#:** Experiencia en el desarrollo de aplicaciones utilizando C#.
+- **JavaScript:** Amplio conocimiento en Node.js, Express.js y desarrollo general en JavaScript.
+- **.NET / .NET Core / .NET Framework:** Experiencia en el desarrollo con estas tecnologías.
+- **SQL (MySQL):** Competencia en el manejo y diseño de bases de datos utilizando MySQL.
+- **PHP:** Experiencia en el desarrollo de aplicaciones con PHP.
+- **HTML (Básico):** Conocimientos básicos en la estructura de páginas web.
+- **CSS (Básico):** Conocimientos básicos en estilización y diseño web.
+- **JSON:** Competencia en el manejo y manipulación de datos en formato JSON.
+- **Shell Script (bash):** Experiencia en la creación y ejecución de scripts en Bash.
+- **React Native:** Desarrollo de aplicaciones móviles multiplataforma utilizando React Native.
+- **Java:** Experiencia en el desarrollo de aplicaciones en Java.
+
+### Idiomas
+- **Inglés (C1 Advanced - Cambridge Certificate):** Alto nivel de inglés certificado por Cambridge Certificate.
+- **Español:** Nativo.
+- **Valenciano:** Nativo.
+
+## Formación Académica
+- **Grado Superior en Desarrollo de Aplicaciones Multiplataforma**
+
+---
 
 # Sobre este repositorio
 Este repositorio ha sido creado con la finalidad de ofrecer una experiencia de navegación organizada y accesible para explorar mis proyectos. Aquí encontrarás una lista de proyectos individuales, cada uno acompañado de enlaces directos a sus respectivos repositorios.
+
+---
 
 # Proyectos destacados
 
