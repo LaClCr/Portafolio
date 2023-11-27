@@ -1,7 +1,7 @@
 # Sobre mí
 
 <p align="center">
-  <img src="https://github.com/LaClCr/Portafolio/blob/main/image3.jpeg"width="400" height="500">
+  <img src="https://github.com/LaClCr/Portafolio/blob/main/image3.jpeg"width="400" height="400">
 </p>
 Soy Laia Clemente Crespo, desarrolladora de software con experiencia en diversas tecnologías y proyectos.
 
