@@ -44,3 +44,15 @@ Aplicación móvil desarrollada con JavaScript y React Native para realizar cál
 
 
 [Ir al proyecto](https://github.com/LaClCr/GestionaFicheros_JAVA.git)
+
+---
+
+## CRUCIGRAMA Y SOPA DE LETRAS REACT NATIVE
+
+---
+
+<img src="https://github.com/LaClCr/Juegos_ReactNative/blob/main/imagen.png" width='650' height='400'>
+
+Proyecto desarrollado en React Native que incluye un crucigrama interactivo y una sopa de letras. 
+
+[Ir al proyecto](https://github.com/LaClCr/Juegos_ReactNative.git)
