@@ -63,7 +63,7 @@ Proyecto desarrollado en React Native que incluye un crucigrama interactivo y un
 
 ---
 
-![Captura de pantalla](https://github.com/LaClCr/CalculadoraIMC_ReactNative/blob/main/calculadoraIMC.png)
+<img src="https://github.com/LaClCr/CalculadoraIMC_ReactNative/blob/main/calculadoraIMC.png" width="300" height="600">
 
 Proyecto desarrollado en React Native que consiste en una calculadora de IMC. 
 
@@ -75,7 +75,7 @@ Proyecto desarrollado en React Native que consiste en una calculadora de IMC.
 
 ---
 
-![Captura de pantalla de GESTOR DE BASE DE DATOS MYSQL JAVA](https://github.com/LaClCr/Consultas_SQL_Java/blob/main/captura.png)
+<img src="https://github.com/LaClCr/Consultas_SQL_Java/blob/main/captura.png" width='600' height='400'>
 
 Proyecto desarrollado en Java con Eclipse, un gestor de base de datos para una biblioteca. Ofrece funciones de inicio de sesión con diferentes roles, ejecución de consultas SQL y gestión de sesiones de usuario.
 
