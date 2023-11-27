@@ -8,6 +8,8 @@
 </p>
 
 
+[Ver Currículum Vitae](https://github.com/LaClCr/Portafolio/blob/main/CV_LAIA_CLEMENTE.pdf)
+
 ## Competencias Técnicas
 
 ### Programación y Desarrollo:
