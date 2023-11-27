@@ -1,9 +1,10 @@
 # Sobre mí
 
 <p align="center">
+  <br><br><br><br><br>
   <img src="https://github.com/LaClCr/Portafolio/blob/main/image3.jpeg"width="400" height="400">
-  <br>Soy Laia Clemente Crespo, desarrolladora de software con experiencia en diversas tecnologías y proyectos.
-  <br><br><br>
+  <br><br>Soy Laia Clemente Crespo, desarrolladora de software con experiencia en diversas tecnologías y proyectos.
+  <br><br><br><br><br>
 </p>
 
 
