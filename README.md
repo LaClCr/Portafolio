@@ -73,7 +73,7 @@ Aplicación móvil desarrollada con JavaScript y React Native para realizar cál
 
 ---
 
-<img src="https://github.com/LaClCr/Gesti-nFicheros_JAVA/blob/cb78882b277e08719eab558208607fd2b7d3a47b/capturaJavaFitxers.png" width='350' height='250'>
+<img src="https://github.com/LaClCr/Gesti-nFicheros_JAVA/blob/cb78882b277e08719eab558208607fd2b7d3a47b/capturaJavaFitxers.png" width='600' height='400'>
 
 
 **Gestión de Archivos en Java** es una aplicación de escritorio desarrollada en Java que te permite realizar diversas operaciones de manejo de archivos y directorios. Esta aplicación ofrece funcionalidades como la gestión de coincidencias en archivos de texto, fusión de archivos en uno nuevo y ordenación de archivos por nombre, tamaño o fecha de modificación.
@@ -87,7 +87,7 @@ Aplicación móvil desarrollada con JavaScript y React Native para realizar cál
 
 ---
 
-<img src="https://github.com/LaClCr/Juegos_ReactNative/blob/main/imagen.png" width='500' height='550'>
+<img src="https://github.com/LaClCr/Juegos_ReactNative/blob/main/imagen.png" width='400' height='450'>
 
 
 Proyecto desarrollado en React Native que incluye un crucigrama interactivo y una sopa de letras. 
@@ -112,7 +112,7 @@ Proyecto desarrollado en React Native que consiste en una calculadora de IMC.
 
 ---
 
-<img src="https://github.com/LaClCr/Consultas_SQL_Java/blob/main/captura.png" width='350' height='250'>
+<img src="https://github.com/LaClCr/Consultas_SQL_Java/blob/main/captura.png" width='600' height='400'>
 
 Proyecto desarrollado en Java con Eclipse, un gestor de base de datos para una biblioteca. Ofrece funciones de inicio de sesión con diferentes roles, ejecución de consultas SQL y gestión de sesiones de usuario.
 
