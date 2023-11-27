@@ -56,3 +56,16 @@ Aplicación móvil desarrollada con JavaScript y React Native para realizar cál
 Proyecto desarrollado en React Native que incluye un crucigrama interactivo y una sopa de letras. 
 
 [Ir al proyecto](https://github.com/LaClCr/Juegos_ReactNative.git)
+
+---
+
+## CALCULADORA DE IMC EN REACT NATIVE
+
+---
+
+![Captura de pantalla](https://github.com/LaClCr/CalculadoraIMC_ReactNative/blob/main/calculadoraIMC.png)
+
+Proyecto desarrollado en React Native que consiste en una calculadora de IMC. 
+
+[Ir al proyecto](https://github.com/LaClCr/CalculadoraIMC_ReactNative.git)
+
