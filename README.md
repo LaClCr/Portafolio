@@ -18,7 +18,7 @@ Proyecto desarrollado con PHP para la gestión de gastos mensuales. Este proyect
 
 ---
 
-[Ver repositorio](https://github.com/LaClCr/PHP_LACUENTALAVIEJAPP.git)
+[Ir al proyecto](https://github.com/LaClCr/PHP_LACUENTALAVIEJAPP.git)
 
 ---
 
@@ -34,7 +34,7 @@ Aplicación móvil desarrollada con JavaScript y React Native para realizar cál
 
 ---
 
-[Ver repositorio](https://github.com/LaClCr/CALCULADORA.git)
+[Ir al proyecto](https://github.com/LaClCr/CALCULADORA.git)
 
 ---
 
@@ -50,4 +50,4 @@ Aplicación móvil desarrollada con JavaScript y React Native para realizar cál
 
 ---
 
-[Ver repositorio](https://github.com/LaClCr/GestionaFicheros_JAVA.git)
+[Ir al proyecto](https://github.com/LaClCr/GestionaFicheros_JAVA.git)
