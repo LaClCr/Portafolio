@@ -69,3 +69,15 @@ Proyecto desarrollado en React Native que consiste en una calculadora de IMC.
 
 [Ir al proyecto](https://github.com/LaClCr/CalculadoraIMC_ReactNative.git)
 
+---
+
+## GESTOR DE BASE DE DATOS MYSQL EN JAVA
+
+---
+
+![Captura de pantalla de GESTOR DE BASE DE DATOS MYSQL JAVA](https://github.com/LaClCr/Consultas_SQL_Java/blob/main/captura.png)
+
+Proyecto desarrollado en Java con Eclipse, un gestor de base de datos para una biblioteca. Ofrece funciones de inicio de sesión con diferentes roles, ejecución de consultas SQL y gestión de sesiones de usuario.
+
+[Ir al proyecto](https://github.com/LaClCr/Consultas_SQL_Java.git)
+
