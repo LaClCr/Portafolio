@@ -4,11 +4,23 @@
   <br><br>
   <img src="https://github.com/LaClCr/Portafolio/blob/main/image3.jpeg"width="250" height="250">
   <br><br>Soy Laia Clemente Crespo, desarrolladora de software con experiencia en diversas tecnologías y proyectos.
+  <br><br>clementecrespo.laia@gmail.com
+  <br>+34 697 24 04 54
+  <br>
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/LaClCr/Portafolio/blob/main/CV_LAIA_CLEMENTE.pdf"><strong>Ver Currículum Vitae</strong></a>&nbsp;&nbsp;&nbsp;
+  <br>
+  <a href="https://www.linkedin.com/in/laia-clemente-crespo-380775282"><strong>Perfil de LinkedIn</strong></a>
   <br><br><br>
 </p>
 
+  
 
-[Ver Currículum Vitae](https://github.com/LaClCr/Portafolio/blob/main/CV_LAIA_CLEMENTE.pdf)
+
+
 
 ## Competencias Técnicas
 
