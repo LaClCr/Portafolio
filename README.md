@@ -17,32 +17,6 @@
   <br><br><br>
 </p>
 
-# Competencias Técnicas
-
-
-### Programación y Desarrollo:
-- **C#:** Experiencia en el desarrollo de aplicaciones utilizando C#.
-- **JavaScript:** Amplio conocimiento en Node.js, Express.js y desarrollo general en JavaScript.
-- **.NET / .NET Core / .NET Framework:** Experiencia en el desarrollo con estas tecnologías.
-- **SQL (MySQL):** Competencia en el manejo y diseño de bases de datos utilizando MySQL.
-- **PHP:** Experiencia en el desarrollo de aplicaciones con PHP.
-- **HTML (Básico):** Conocimientos básicos en la estructura de páginas web.
-- **CSS (Básico):** Conocimientos básicos en estilización y diseño web.
-- **JSON:** Competencia en el manejo y manipulación de datos en formato JSON.
-- **Shell Script (bash):** Experiencia en la creación y ejecución de scripts en Bash.
-- **React Native:** Desarrollo de aplicaciones móviles multiplataforma utilizando React Native.
-- **Java:** Experiencia en el desarrollo de aplicaciones en Java.
-
-
-### Idiomas
-- **Inglés (C1 Advanced - Cambridge Certificate):** Alto nivel de inglés certificado por Cambridge Certificate.
-- **Español:** Nativo.
-- **Valenciano:** Nativo.
-
-
-### Formación Académica
-- **Grado Superior en Desarrollo de Aplicaciones Multiplataforma**
-<br><br>
 ---
 
 # Sobre este repositorio
@@ -52,13 +26,34 @@ Este repositorio ha sido creado con la finalidad de ofrecer una experiencia de n
 ---
 
 # Proyectos destacados
-## VOTAPP - App votaciones REACT NATIVE + API REST
 
-<div align="center">
-  <br><br>
-<img src="https://github.com/LaClCr/VotApp/blob/main/Media/ScreenShot.png" width="300" height="600">
-  <br><br>
-</div>
+## SWEATLAB 
+
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.4-green.svg)](https://spring.io/projects/spring-boot)
+[![JDK](https://img.shields.io/badge/JDK-21-orange.svg)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+[![React Native](https://img.shields.io/badge/React_Native-0.70-blue.svg)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-48.0.8-lightgrey.svg)](https://expo.dev/)
+
+[![Ver el vídeo demo](https://img.youtube.com/vi/kBUB9652pCc/maxresdefault.jpg)](https://youtu.be/kBUB9652pCc)
+<br><br>
+
+SweatLab es una aplicación móvil diseñada para ayudarte a planificar, registrar y seguir tus rutinas de entrenamiento personalizadas. Con una interfaz intuitiva y características innovadoras, SweatLab te permite crear y gestionar tus rutinas de entrenamiento, registrar tu progreso y mantener un seguimiento de tus logros fitness.
+
+
+[Ir al proyecto](https://github.com/LaClCr/SweatLab.git)
+
+
+---
+
+
+## VOTAPP 
+
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.4-green.svg)](https://spring.io/projects/spring-boot)
+[![JDK](https://img.shields.io/badge/JDK-21-orange.svg)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+[![React Native](https://img.shields.io/badge/React_Native-0.70-blue.svg)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-48.0.8-lightgrey.svg)](https://expo.dev/)
+
+[![Ver el nuevo vídeo demo](https://img.youtube.com/vi/rfuRBw3TMS0/maxresdefault.jpg)](https://youtu.be/rfuRBw3TMS0)
 
 Aplicación móvil diseñada específicamente para realizar valoraciones a los distintos proyectos expuestos en Florida Expo. Es una aplicación de ámbito universitario, en concreto Florida Universitària. Proyecto realizado en equipo. 
 
