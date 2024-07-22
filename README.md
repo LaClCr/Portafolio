@@ -50,7 +50,10 @@ Este repositorio ha sido creado para ofrecer una experiencia de navegación orga
 
 SweatLab es una aplicación móvil diseñada para ayudarte a planificar, registrar y seguir tus rutinas de entrenamiento personalizadas. Con una interfaz intuitiva y características innovadoras, SweatLab te permite crear y gestionar tus rutinas de entrenamiento, registrar tu progreso y mantener un seguimiento de tus logros fitness.
 
-[Ir al proyecto](https://github.com/LaClCr/SweatLab.git)
+<p align="center">
+  <a href="https://github.com/LaClCr/SweatLab.git"><strong style="font-size: 18px;">Ir al proyecto</strong></a>
+</p>
+<br>
 
 ---
 
@@ -66,7 +69,10 @@ SweatLab es una aplicación móvil diseñada para ayudarte a planificar, registr
 
 VotApp es una aplicación móvil diseñada para realizar valoraciones a los distintos proyectos expuestos en Florida Expo. Es una aplicación de ámbito universitario, en concreto Florida Universitària. Proyecto realizado en equipo.
 
-[Ir al proyecto](https://github.com/LaClCr/VotApp.git)
+<p align="center">
+  <a href="https://github.com/LaClCr/VotApp.git"><strong style="font-size: 18px;">Ir al proyecto</strong></a>
+</p>
+<br>
 
 ---
 
@@ -80,7 +86,10 @@ VotApp es una aplicación móvil diseñada para realizar valoraciones a los dist
 
 Proyecto académico desarrollado en React Native que incluye un crucigrama interactivo y una sopa de letras. 
 
-[Ir al proyecto](https://github.com/LaClCr/Juegos_ReactNative.git)
+<p align="center">
+  <a href="https://github.com/LaClCr/Juegos_ReactNative.git"><strong style="font-size: 18px;">Ir al proyecto</strong></a>
+</p>
+<br>
 
 ---
 
@@ -98,7 +107,10 @@ Proyecto académico desarrollado en React Native que incluye un crucigrama inter
 
 Aplicación móvil desarrollada con JavaScript y React Native para realizar cálculos matemáticos en dispositivos móviles. Esta calculadora ofrece una amplia gama de funciones, desde operaciones básicas hasta cálculos matemáticos avanzados.
 
-[Ir al proyecto](https://github.com/LaClCr/CALCULADORA.git)
+<p align="center">
+  <a href="https://github.com/LaClCr/CALCULADORA.git"><strong style="font-size: 18px;">Ir al proyecto</strong></a>
+</p>
+<br>
 
 ---
 
@@ -111,7 +123,10 @@ Aplicación móvil desarrollada con JavaScript y React Native para realizar cál
 
 Proyecto desarrollado en Java con Eclipse, un gestor de base de datos para una biblioteca. Ofrece funciones de inicio de sesión con diferentes roles, ejecución de consultas SQL y gestión de sesiones de usuario.
 
-[Ir al proyecto](https://github.com/LaClCr/Consultas_SQL_Java.git)
+<p align="center">
+  <a href="https://github.com/LaClCr/Consultas_SQL_Java.git"><strong style="font-size: 18px;">Ir al proyecto</strong></a>
+</p>
+<br>
 
 ---
 
@@ -123,7 +138,10 @@ Proyecto desarrollado en Java con Eclipse, un gestor de base de datos para una b
 
 **Gestión de Archivos** es una aplicación de escritorio desarrollada en Java que te permite realizar diversas operaciones de manejo de archivos y directorios. Esta aplicación ofrece funcionalidades como la gestión de coincidencias en archivos de texto, fusión de archivos en uno nuevo y ordenación de archivos por nombre, tamaño o fecha de modificación.
 
-[Ir al proyecto](https://github.com/LaClCr/GestionaFicheros_JAVA.git)
+<p align="center">
+  <a href="https://github.com/LaClCr/GestionaFicheros_JAVA.git"><strong style="font-size: 18px;">Ir al proyecto</strong></a>
+</p>
+<br>
 
 ---
 
@@ -138,4 +156,7 @@ Proyecto desarrollado en Java con Eclipse, un gestor de base de datos para una b
 
 **LaCuentaLaViejApp** es una aplicación web desarrollada con PHP, HTML, CSS y MYSQL. Su principal objetivo es permitir a los usuarios llevar un registro personal de sus gastos mensuales. Con esta aplicación, puedes añadir nuevos gastos, eliminar gastos existentes, gestionar categorías para organizar tus gastos y visualizar estadísticas relacionadas con tus gastos.
 
-[Ir al proyecto](https://github.com/LaClCr/PHP_LACUENTALAVIEJAPP.git)
+<p align="center">
+  <a href="https://github.com/LaClCr/PHP_LACUENTALAVIEJAPP.git"><strong style="font-size: 18px;">Ir al proyecto</strong></a>
+</p>
+<br>
